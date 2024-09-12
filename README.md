@@ -1,5 +1,5 @@
 # .wezterm.lua
-This is my current config for wezterm.
+This is my current config for [WezTerm](https://wezfurlong.org/wezterm/index.html).
 
 ## Installation
 ### MacOS
@@ -9,3 +9,6 @@ This is my current config for wezterm.
 
 ### Windows
 WORK IN PROGRESS
+
+## About
+Made with ❤️ by aaronlyy
