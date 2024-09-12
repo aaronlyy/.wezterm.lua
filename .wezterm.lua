@@ -17,10 +17,4 @@ config.enable_tab_bar = false
 config.window_background_opacity = 0.9
 config.macos_window_background_blur = 10
 
-if wezterm.target_triple == "x86_64-apple-darwin" or wezterm.target_triple == "aarch64-apple-darwin" then
-  config.default_cwd = "~/Developer"
-elseif wezterm.target_triple == "x86_64-pc-windows-msvc" then
-  config.default_cwd = "C:\\Users\\aaron\\coding"
-end
-
 return config
